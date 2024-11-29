@@ -31,5 +31,5 @@ If you do not have anaconda or git installed, there is a guide on how to install
 https://github.com/vars-tool/vars-tool.git
 
 #Post SA visualization of results# 
-The sensitivity analysis using XVARS has been done in the manuscript for 30 trials for each model
-The plots for the results in the manuscript can be reproduced using the code provided in "plotting.ipynb" using the some  result files provided in the current repository
+The sensitivity analysis using XVARS has been done in the manuscript for 30 trials for each model.
+The plots for the results in the manuscript can be reproduced using the code provided in "plotting.ipynb" using the some  result files provided in the current repository.
